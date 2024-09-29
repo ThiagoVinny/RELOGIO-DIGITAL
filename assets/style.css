@@ -24,4 +24,34 @@ body {
     box-shadow: 0px 12px 20px rgba(0, 0, 0, .2);
 }
 
+.relogio div {
+    height: 170px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background: rgba(0, 0, 0, .7);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .5);
+    border-radius: 12px;
+    letter-spacing: 2px;
+    transition: transform 0.3s ease-in-out;
+}
 
+.relogio div:hover {
+    transform: translateY(-10px);
+}
+
+.relogio span {
+    font-weight: 500;
+    font-size: 55px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, .3);
+}
+
+.relogio span.tempo {
+    font-size: 12px;
+    font-weight: 300;
+    color: #ddd;
+    text-shadow: none;
+}
