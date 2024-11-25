@@ -15,6 +15,9 @@ Este é um projeto de **Relógio Digital** desenvolvido com **HTML**, **CSS** e 
 - **CSS**: Estilos personalizados, incluindo gradientes, sombras e efeitos de transição.
 - **JavaScript**: Lógica para atualizar o relógio em tempo real.
 
+## Link do site
+https://relogio-odigital.netlify.app/
+
 ## Fotos do Projeto 
 
 ![Captura de tela 2024-09-28 224719](https://github.com/user-attachments/assets/b2de0d3e-e78a-4206-b132-4fe2d37611bf)
